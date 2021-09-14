@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="header">Welcome to the Currency Converter</string>
+    <string name="data">Enter Your Amount in $$ </string>
+    <string name="submit">Get INR Amount</string>
+    <string name="image">Currency image</string>
+    <string name="create">Create a New Account</string>
+    <string name="nam">Name</string>
+    <string name="nam1">Full Name</string>
+    <string name="num">Phone</string>
+    <string name="pass">Password</string>
+    <string name="mail">Email</string>
+    <string name="btn">Register</string>
+    <string name="without_login">Already Register? Login here</string>
+    <string name="without_login2">New Here? Create Account</string>
+    <string name="out">Logout</string>
+    <string name="in">Login</string>
+</resources>
